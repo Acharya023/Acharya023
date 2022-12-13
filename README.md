@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Adhikari
-- 👀 I’m interested in game development and cloud
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on a project of Quantum Tic Tac Toe
 - 📫 How to reach me:- harshadhikari023@gmail.com
